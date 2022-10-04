@@ -1,5 +1,5 @@
 # Sub-Task Decomposition Enables Learning in Sequence to Sequence Tasks 
-Official implementation of the experiments in  the "Sub-Task Decomposition Enables Learning in Sequence to Sequence Tasks " paper.
+Official implementation of the experiments in  the "Sub-Task Decomposition Enables Learning in Sequence to Sequence Tasks" paper.
 
 
 The following example illustrates how to run a single experiment:
